@@ -5,7 +5,7 @@
 
 * :nerd_face:	Interested in deepening my skills and understanding of IOS development.
 * :technologist:	Wanting experience with integrating payment in my work, gained experience in implementing Apple Pay
-Created a sweater shopping app integrating apple pay
+Created a sweater shopping app integrating apple pay. Successfully sold entire inventory!
 Here is the main screen of the app.
 
 ## 🌱 What it does
